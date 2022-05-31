@@ -1,0 +1,25 @@
+core:
+  - name: Agathe
+    profile_url: https://twitter.com/agathe_vaisse
+    picture: agathe.png
+    short_desc: Developer at OUI.sncf
+
+  - name: Andres
+    profile_url: https://twitter.com/aalmiray
+    picture: andres.png
+    short_desc: Developer Advocate at Oracle
+
+  - name: Florent
+    profile_url: https://twitter.com/fbiville
+    picture: florent.png
+    short_desc: Developer at Neo4j
+
+  - name: Hervé
+    profile_url: https://twitter.com/hboutemy
+    picture: herve.png
+    short_desc: Solutions Architect at Sonatype
+
+  - name: Lydiane
+    profile_url: https://www.linkedin.com/in/lydiane-u
+    picture: lydiane.jpg
+    short_desc: Developer
