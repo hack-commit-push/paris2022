@@ -1,3 +1,3 @@
-#- name: Neo4j
-#  url: https://www.neo4j.com/
-#  picture: neo4j.png
+- name: Scaleway
+  url: https://www.scaleway.com/
+  picture: scaleway.svg
