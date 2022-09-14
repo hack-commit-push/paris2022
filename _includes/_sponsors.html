@@ -5,9 +5,9 @@
     {% for sponsor in include.sponsors %}
 	    {% assign mod = forloop.index0 | modulo:2 %}
 		{% if mod == 0 %}
-	<div class="grid_item col-xs-12 col-sm-6 col-sm-offset-{{include.left-offset|default:0}}">
+	<div class="grid_item col-xs-12 col-6 col-sm-offset-{{include.left-offset|default:0}}">
 		{% else %}
-	<div class="grid_item col-xs-12 col-sm-6">
+	<div class="grid_item col-xs-12 col-6">
 		{% endif %}
 		<a href="{{sponsor.url|replace:'|SITE_EMAIL|',site.email}}" rel="noopener" target="_blank">
 			<img class="wow bounceIn" alt="{{sponsor.name}}" title="{{sponsor.name}}" src="img/{{sponsor.picture}}" />
