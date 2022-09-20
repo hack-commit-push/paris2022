@@ -152,7 +152,7 @@ header {
 				display: flex;
 				flex-direction: column;
 				justify-content: center;
-				margin-right: 1vw;
+				margin-right: 0.25vw;
 
 				p {
 					text-align: right;
@@ -161,7 +161,7 @@ header {
 			}
 
 			#host-logo {
-				height: 60px;
+				height: 120px;
 			}
 		}
 
@@ -324,7 +324,7 @@ header .header-content {
 
 #sponsors {
 	img {
-		width: 140px;
+		width: 200px;
 		height: max-content;
 		align-self: center;
 	}
