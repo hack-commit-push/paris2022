@@ -1,3 +1,6 @@
 - name: Scaleway
   url: https://www.scaleway.com/
   picture: scaleway.png
+- name: Programmez!
+  url: https://www.programmez.com/
+  picture: programmez.png
