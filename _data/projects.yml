@@ -24,6 +24,17 @@
 #  contributions: #links to contributions (once the event is done)
 #   - https://example.com/my/contribution # can be a commit, a pull/merge request...
 
+- name: Eclipse JKube
+  url: https://www.eclipse.org/jkube/
+  # description is optional but highly recommended
+  description: Eclipse JKube is a collection of plugins and libraries that are used for building container images using Docker, JIB or S2I build strategies. Eclipse JKube generates and deploys Kubernetes/OpenShift manifests at compile time too. It brings your Java applications on to Kubernetes and OpenShift by leveraging the tasks required to make your application cloud-native. Eclipse JKube also provides a set of tools such as watch, debug, log, etc. to improve your developer experience.
+  # presentation section is optional but highly recommended
+  leads:
+    - name: Sun Tan
+      spoken_languages:
+        - EN
+        - FR
+
 - name: Eclipse Starter for Jakarta EE
   url: https://projects.eclipse.org/projects/ee4j.starter
   description: The Eclipse Starter for Jakarta EE is a source code generator for Jakarta EE projects. The current version is using Maven archetypes to generate a starting point for creating Jakarta EE applications. You can find it at https://start.jakarta.ee/.
