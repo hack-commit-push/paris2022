@@ -24,6 +24,15 @@
 #  contributions: #links to contributions (once the event is done)
 #   - https://example.com/my/contribution # can be a commit, a pull/merge request...
 
+- name: Apache Maven
+  url: https://maven.apache.org/
+  description: Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information. 
+  leads:
+    - name: Hervé Boutemy
+      spoken_languages:
+        - FR
+        - EN
+        
 - name: Eclipse JKube
   url: https://www.eclipse.org/jkube/
   # description is optional but highly recommended
@@ -42,3 +51,12 @@
     - name: Ivar Grimstad
       spoken_languages: 
         - EN
+
+- name: JReleaser
+  url: https://jreleaser.org/
+  description: JReleaser is a release automation tool. Its goal is to simplify creating releases and publishing artifacts to multiple package managers while providing customizable options.
+  leads:
+    - name: Andres Almiray
+      spoken_languages:
+        - EN
+        - ES
