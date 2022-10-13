@@ -32,7 +32,16 @@
       spoken_languages:
         - FR
         - EN
-        
+
+- name: Bach
+  url: https://bach.run/
+  description: 🎼 Bach Builds (on(ly)) Modules - Bach is a lightweight Java build tool that orchestrates JDK tools for building modular Java projects.
+  leads:
+    - name: Christian Stein
+      spoken_languages:
+        - EN
+        - DE
+
 - name: Eclipse JKube
   url: https://www.eclipse.org/jkube/
   # description is optional but highly recommended
@@ -60,3 +69,16 @@
       spoken_languages:
         - EN
         - ES
+
+- name: JUnit 5
+  url: https://junit.org/
+  description: JUnit 5 is the next generation of JUnit. The goal is to create an up-to-date foundation for developer-side testing on the JVM. This includes focusing on Java 8 and above, as well as enabling many different styles of testing.
+  leads:
+    - name: Juliette de Rancourt
+      spoken_languages:
+        - FR
+        - EN
+    - name: Christian Stein
+      spoken_languages:
+        - EN
+        - DE
