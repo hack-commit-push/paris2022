@@ -1,6 +1,21 @@
 - name: Scaleway
   url: https://www.scaleway.com/
   picture: scaleway.png
+- name: JFrog
+  url: https://jfrog.com/
+  picture: jfrog.png
+- name: Jakarta EE Working Group
+  url: https://jakarta.ee/about/working-group/
+  picture: jakarta-ee.svg
+- name: Swicket
+  url: https://swicket.io/
+  picture: swicket.svg
+- name: Pragmatic Bookshelf
+  url: https://pragprog.com/
+  picture: pragprog.png
+- name: Paris JUG
+  url: https://www.parisjug.org/
+  picture: parisjug.png
 - name: Programmez!
   url: https://www.programmez.com/
   picture: programmez.png
