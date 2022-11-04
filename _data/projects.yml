@@ -33,15 +33,6 @@
         - FR
         - EN
 
-- name: Bach
-  url: https://bach.run/
-  description: 🎼 Bach Builds (on(ly)) Modules - Bach is a lightweight Java build tool that orchestrates JDK tools for building modular Java projects.
-  leads:
-    - name: Christian Stein
-      spoken_languages:
-        - EN
-        - DE
-
 - name: Eclipse JKube
   url: https://www.eclipse.org/jkube/
   # description is optional but highly recommended
@@ -78,7 +69,3 @@
       spoken_languages:
         - FR
         - EN
-    - name: Christian Stein
-      spoken_languages:
-        - EN
-        - DE
