@@ -60,6 +60,11 @@
       spoken_languages:
         - EN
         - ES
+  contributions:
+    - https://github.com/jreleaser/jreleaser/issues/963
+    - https://github.com/jreleaser/jreleaser/issues/971
+    - https://github.com/jreleaser/jreleaser/issues/1002
+    - https://github.com/jreleaser/jreleaser/issues/1013
 
 - name: JUnit 5
   url: https://junit.org/
