@@ -32,6 +32,10 @@
       spoken_languages:
         - FR
         - EN
+  contributions:
+    - https://github.com/mojohaus/buildplan-maven-plugin/pull/154
+    - https://github.com/jvm-repo-rebuild/reproducible-central/pull/96
+    - https://github.com/jeremylong/DependencyCheck/issues/5026
 
 - name: Eclipse JKube
   url: https://www.eclipse.org/jkube/
